@@ -1,11 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-       map = {}
+       index_map = {}
        for i,num in enumerate(nums):
         find = target - num
-        if find not in map:
-            map[num] = i
+        if find not in index_map:
+            index_map[num] = i
 
         else:
-            index = map[find]
-            return [i,index]
+            index = index_map[find]
+            return [index,i]
