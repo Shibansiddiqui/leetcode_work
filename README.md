@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
