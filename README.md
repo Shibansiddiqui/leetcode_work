@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0412-fizz-buzz) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
