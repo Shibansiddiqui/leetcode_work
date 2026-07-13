@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
