@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
