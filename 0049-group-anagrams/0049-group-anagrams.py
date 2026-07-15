@@ -3,7 +3,7 @@ class Solution:
         freq = {}
 
         for i in strs:
-            key = "".join(sorted(i))   # "eat" -> "aet"
+            key = "".join(sorted(i))   
             if key not in freq:
                 freq[key] =[i]
 
@@ -11,4 +11,18 @@ class Solution:
                 freq[key].append(i)  
          
         return list(freq.values())
+
+
+
+        #  freq = {}
+
+        # for key in strs:
+        #     sorted_key = tuple(sorted(key))
+
+        #     if sorted_key not in freq:
+        #         freq[sorted_key] = [key]
+        #     else:
+        #         freq[sorted_key].append(key)
+
+        # return list(freq.values())
             
