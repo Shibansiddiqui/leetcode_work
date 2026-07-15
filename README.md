@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0905-sort-array-by-parity) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0905-sort-array-by-parity) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
