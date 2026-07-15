@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0905-sort-array-by-parity) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
