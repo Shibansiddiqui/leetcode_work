@@ -5,9 +5,6 @@ class Solution:
                 return True
             return False   
     def isPalindrome(self, s: str) -> bool:
-         
-
-
         s = s.lower()
         l = 0
         r = len(s)-1
