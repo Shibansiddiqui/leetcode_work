@@ -9,6 +9,4 @@ class Solution:
         for i in hashm:
             if hashm[i] == 1:
                 return s.index(i)
-                break
-
         return -1
