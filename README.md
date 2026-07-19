@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1903-largest-odd-number-in-string) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shibansiddiqui/leetcode_work/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
