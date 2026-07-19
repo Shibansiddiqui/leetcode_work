@@ -8,3 +8,4 @@ class Solution:
             if goal == curr:
                 return True
         return False    
+        #  return len(s) == len(goal) and goal in (s + s)
