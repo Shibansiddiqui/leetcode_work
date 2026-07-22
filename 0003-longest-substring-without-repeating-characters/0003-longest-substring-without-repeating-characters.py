@@ -12,8 +12,7 @@ class Solution:
         lst = [] 
         for i in range(len(s)):
             while s[i] in lst: 
-                lst.pop(0) 
-                
+                lst.pop(0)          
             lst.append(s[i]) 
             longest = max(longest,len(lst))
         return longest        
