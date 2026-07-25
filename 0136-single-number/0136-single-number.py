@@ -6,6 +6,6 @@ class Solution:
                 freq[num] = 1
             else:
                 freq[num] += 1
-        for i, j in freq.items():
-            if j==1:
-                return i           
+        for key, value in freq.items():
+            if value == 1:
+                return key           
