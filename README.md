@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shibansiddiqui/leetcode_work/tree/master/0704-binary-search) |
